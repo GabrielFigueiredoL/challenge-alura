@@ -24,12 +24,13 @@ Extras:
 Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
 Abaixo, algumas imagens do projeto:
-Versão mobile
+## Versão mobile
+
 ![mobile](https://github.com/GabrielFigueiredoL/challenge-alura/assets/74757882/5f5c15d9-2c4c-4f0a-bdc6-e1615a177c15)
 
-Versão para Tablets
+## Versão para Tablets
 ![tablet](https://github.com/GabrielFigueiredoL/challenge-alura/assets/74757882/236dc9e8-ec80-422d-85b4-a504d868cb23)
 
-Versão Desktop
+## Versão Desktop
 ![desktop](https://github.com/GabrielFigueiredoL/challenge-alura/assets/74757882/20a4a14f-3daa-4015-9a08-82005069658f)
 
